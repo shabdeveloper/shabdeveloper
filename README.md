@@ -1,4 +1,4 @@
-![logo](https://github.com/shabdeveloper/shabdeveloper/blob/main/shabnam.jpeg)
+![logo](https://github.com/shabdeveloper/shabdeveloper/blob/main/pic.png)
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font-family=fantasy+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+Shabnam+Dhatwalia.;A+Full+Stack+Web+Developer+from+India.)](https://git.io/typing-svg)
